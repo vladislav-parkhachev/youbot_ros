@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>youbot_navigation</name>
+  <version>0.0.0</version>
+  <description>
+    The youbot_navigation provides roslaunch scripts for starting the navigation.
+  </description>
+  <maintainer email="nowak@locomotec.com">Walter Nowak</maintainer>
+  <license>GPLv3</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>amcl</exec_depend>
+  <exec_depend>map_server</exec_depend>
+  <exec_depend>move_base</exec_depend>
+</package>
